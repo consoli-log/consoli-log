@@ -33,7 +33,7 @@
 </div>
 
 ![soli's GitHub stats](https://github-readme-stats.vercel.app/api?username=consoli-log&show_icons=true&theme=flag-india)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=flag-india)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=consoli-log&layout=compact&card_width=320&langs_count=5&theme=flag-india)
 
 <img src="http://mazandi.herokuapp.com/api?handle=eumsoli&theme=warm"/>
 
