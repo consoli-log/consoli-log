@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&color=F7097B&vCenter=true&width=435&height=100&separator=%3C&lines=consoli.log(%22hello%22);" alt="Typing SVG" /></a>
+
 <!--
 **consoli-log/consoli-log** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
