@@ -1,5 +1,16 @@
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8420fe,100:f877ab&height=240&text=consoli.log();&animation=&fontColor=ffffff&fontSize=50" />
+  
+
 <img src="https://github.com/consoli-log/consoli-log/blob/output/github-contribution-grid-snake.svg"/>
+
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <div style="text-align: left;"> 
+        <a href=https://consoli-log.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://consoli-log.tistory.com/"> </a>
+        <a href=mailto:comsoli.log@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:comsoli.log@gmail.com"> </a>
+    </div>  
+</div>
 
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
