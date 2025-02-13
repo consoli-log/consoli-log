@@ -32,15 +32,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=consoli-log&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=buefy&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-![soli's GitHub stats](https://github-readme-stats.vercel.app/api?username=consoli-log&card_width=280&show_icons=true&theme=flag-india)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=consoli-log&layout=compact&card_width=320&langs_count=5&theme=flag-india)
-
-<!-- [![solved.ac](https://solvedac.junah.dev/v1/generate_badge?handle=eumsoli)](http://solved.ac/profile/eumsoli/arena) -->
+![soli's GitHub stats](https://github-readme-stats.vercel.app/api?username=consoli-log&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&theme=flag-india)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=consoli-log&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=falsetheme=flag-india)
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=eumsoli)](https://solved.ac/eumsoli)
-![Solved.ac commit](http://mazandi.herokuapp.com/api?handle=eumsoli&theme=warm)
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=eumsoli&theme=cold)
-<img src="http://mazandi.herokuapp.com/api?handle=eumsoli&theme=warm"/>
+![Solved.ac commit](http://mazandi.herokuapp.com/api?handle=eumsoli&theme=cold)
+
+<!-- [![solved.ac](https://solvedac.junah.dev/v1/generate_badge?handle=eumsoli)](http://solved.ac/profile/eumsoli/arena) -->
+<!-- ![Solved.ac commit](http://mazandi.herokuapp.com/api?handle=eumsoli&theme=warm) -->
+
+
 
 <br clear="both">
 
