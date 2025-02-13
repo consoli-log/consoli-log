@@ -52,9 +52,6 @@
 <!-- ![Solved.ac commit](http://mazandi.herokuapp.com/api?handle=eumsoli&theme=warm) -->
 
 
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/consoli-log/consoli-log/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/아이디/아이디/blob/output/github-contribution-grid-snake.svg)
 
 
