@@ -33,9 +33,9 @@
 </div>
 
 ![soli's GitHub stats](https://github-readme-stats.vercel.app/api?username=consoli-log&card_width=280&show_icons=true&theme=flag-india)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=consoli-log&layout=compact&card_width=320&langs_count=5&theme=flag-india)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=consoli-log&layout=compact&card_width=320&langs_count=5&theme=flag-india)
 
-[![solved.ac](https://solvedac.junah.dev/v1/generate_badge?handle=eumsoli)](http://solved.ac/profile/eumsoli/arena)
+<!-- [![solved.ac](https://solvedac.junah.dev/v1/generate_badge?handle=eumsoli)](http://solved.ac/profile/eumsoli/arena) -->
 
 <img src="http://mazandi.herokuapp.com/api?handle=eumsoli&theme=warm"/>
 
