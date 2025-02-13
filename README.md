@@ -26,6 +26,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=consoli-log&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=eumsoli)](https://solved.ac/{handle})
+
+<img src="http://mazandi.herokuapp.com/api?handle=eumsoli&theme=warm"/>
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/consoli-log/consoli-log/output/snake.svg" alt="Snake animation" />
