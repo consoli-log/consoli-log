@@ -2,10 +2,6 @@
   <img src="https://render.gitanimals.org/farms/consoli-log" width=100% />
 </a>
 
-
-<a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fconsoli-log%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
-
-
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> 
@@ -40,9 +36,12 @@
 </div>
 
 
+
+<div style="text-align: left;">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎈 Activity </h2> <br> 
+</div>
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=eumsoli)](https://solved.ac/eumsoli)
 ![Solved.ac commit](http://mazandi.herokuapp.com/api?handle=eumsoli&theme=cold)
-
 
 
 <!-- [![solved.ac](https://solvedac.junah.dev/v1/generate_badge?handle=eumsoli)](http://solved.ac/profile/eumsoli/arena) -->
