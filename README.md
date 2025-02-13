@@ -32,8 +32,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=consoli-log&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=buefy&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-![soli's GitHub stats](https://github-readme-stats.vercel.app/api?username=consoli-log&show_icons=true&theme=flag-india)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=consoli-log&layout=compact&card_width=320&langs_count=5&theme=flag-india)
+![soli's GitHub stats](https://github-readme-stats.vercel.app/api?username=consoli-log&card_width=320&show_icons=true&theme=flag-india&height="150")
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=consoli-log&layout=compact&card_width=320&langs_count=5&theme=flag-india&height="150")
 
 <img src="http://mazandi.herokuapp.com/api?handle=eumsoli&theme=warm"/>
 
