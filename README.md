@@ -1,10 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&color=F7097B&vCenter=true&width=435&height=100&separator=%3C&lines=consoli.log(%22hello%22);" alt="Typing SVG" /></a>
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/consoli-log" width=100% />
 </a>
-
-
-
 <a href="https://hits.seeyoufarm.com"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fconsoli-log%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
