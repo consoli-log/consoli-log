@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=200&text=consoli.log();&animation=&fontColor=ffffff&fontSize=50&&fontAlign=100&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=200&text=consoli.log();&animation=&fontColor=ffffff&fontSize=50&&fontAlign=80&fontAlignY=35" />
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8420fe,100:f877ab&height=240&text=consoli.log();&animation=&fontColor=ffffff&fontSize=50" />   -->
 
 <img src="https://github.com/consoli-log/consoli-log/blob/output/github-contribution-grid-snake.svg"/>
