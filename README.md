@@ -52,6 +52,6 @@
 <!-- ![Solved.ac commit](http://mazandi.herokuapp.com/api?handle=eumsoli&theme=warm) -->
 
 
-![snake gif](https://github.com/아이디/아이디/blob/output/github-contribution-grid-snake.svg)
+<img src="https://github.com/consoli-log/consoli-log/blob/output/github-contribution-grid-snake.svg"/>
 
 
