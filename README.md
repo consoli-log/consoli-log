@@ -32,12 +32,11 @@
 </div>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=consoli-log&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=solarized-light&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=consoli-log&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=flag-india&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=consoli-log&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=consoli-log&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-![soli's GitHub stats](https://github-readme-stats.vercel.app/api?username=consoli-log&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&locale=en&hide_border=false&theme=flag-india)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=consoli-log&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&hide_border=falsetheme=flag-india)
+
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=eumsoli)](https://solved.ac/eumsoli)
 ![Solved.ac commit](http://mazandi.herokuapp.com/api?handle=eumsoli&theme=cold)
