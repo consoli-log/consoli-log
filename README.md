@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&pause=1000&color=F7097B&vCenter=true&width=435&height=100&separator=%3C&lines=consoli.log(%22hello%22);" alt="Typing SVG" /></a>
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/consoli-log" width="1000" height="120" />
+  <img src="https://render.gitanimals.org/farms/consoli-log" width=100% height="1200" />
 </a>
 
 
