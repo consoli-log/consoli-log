@@ -37,6 +37,7 @@
 
 <!-- [![solved.ac](https://solvedac.junah.dev/v1/generate_badge?handle=eumsoli)](http://solved.ac/profile/eumsoli/arena) -->
 
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=eumsoli)](https://solved.ac/eumsoli)
 <img src="http://mazandi.herokuapp.com/api?handle=eumsoli&theme=warm"/>
 
 <br clear="both">
