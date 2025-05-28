@@ -46,9 +46,9 @@
         <img src="https://render.gitanimals.org/lines/consoli-log?pet-id=677885846886318058" width="20%" height="120"/>
     </a>
     <a href="https://github.com/devxb/gitanimals">
-        <img src="https://render.gitanimals.org/lines/consoli-log?pet-id=677885846886318058" width="20%" height="120"/>
-        <img src="https://render.gitanimals.org/lines/consoli-log?pet-id=677885846886318059" width="20%" height="120"/>
-        <img src="https://render.gitanimals.org/lines/consoli-log?pet-id=677901477778057652" width="20%" height="120"/>
+        <img src="https://render.gitanimals.org/lines/consoli-log?pet=677885846886318058" width="20%" height="120"/>
+        <img src="https://render.gitanimals.org/lines/consoli-log?pet=677885846886318059" width="20%" height="120"/>
+        <img src="https://render.gitanimals.org/lines/consoli-log?id=677901477778057652" width="20%" height="120"/>
         <img src="https://render.gitanimals.org/lines/consoli-log?pet-id=677919731003180930" width="20%" height="120"/>
         <img src="https://render.gitanimals.org/lines/consoli-log?pet-id=681128324789976085" width="20%" height="120"/>
         <img src="https://render.gitanimals.org/lines/consoli-log?pet-id=681788439880810462" width="20%" height="120"/>
