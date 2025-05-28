@@ -43,6 +43,11 @@
         <img src="https://render.gitanimals.org/farms/consoli-log"/>
 <!--         <img src="https://render.gitanimals.org/lines/consoli-log" width="1000" height="120"/> -->
     </a>
+    <a href="https://github.com/devxb/gitanimals">
+        <img src="https://render.gitanimals.org/lines/consoli-log?pet-id=677919731003180930" width="25%" height="100"/>
+        <img src="https://render.gitanimals.org/lines/consoli-log?pet-id=715364862154629211" width="25%" height="100"/>
+        <img src="https://render.gitanimals.org/lines/consoli-log?pet-id=715364862804748398" width="25%" height="100"/>
+    </a>
     <div align="left">
         <img src="https://github-readme-stats.vercel.app/api?username=consoli-log&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=en&hide_border=false" height="150" alt="stats graph"  />
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=consoli-log&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=buefy&hide_border=false" height="150" alt="languages graph"  />
