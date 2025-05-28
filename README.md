@@ -40,7 +40,8 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <br> 
     <a href="https://github.com/devxb/gitanimals">
-        <img src="https://render.gitanimals.org/lines/consoli-log?pet-id=1" width="1000" height="120"/>
+        <img src="https://render.gitanimals.org/farms/consoli-log"/>
+<!--         <img src="https://render.gitanimals.org/lines/consoli-log?pet-id=1" width="1000" height="120"/> -->
     </a>
     <div align="left">
         <img src="https://github-readme-stats.vercel.app/api?username=consoli-log&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=en&hide_border=false" height="150" alt="stats graph"  />
