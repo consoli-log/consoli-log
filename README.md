@@ -42,13 +42,13 @@
     <a href="https://github.com/devxb/gitanimals">
         <img src="https://render.gitanimals.org/farms/consoli-log"/>
     </a>
-    <a href="https://github.com/devxb/gitanimals">
-        <img src="https://render.gitanimals.org/lines/consoli-log?pet=677885846886318058" width="20%" height="120"/>
-        <img src="https://render.gitanimals.org/lines/consoli-log?pet=677885846886318059" width="20%" height="120"/>
-        <img src="https://render.gitanimals.org/lines/consoli-log?pet=677901477778057652" width="20%" height="120"/>
-        <img src="https://render.gitanimals.org/lines/consoli-log?id=677919731003180930" width="20%" height="120"/>
-        <img src="https://render.gitanimals.org/lines/consoli-log?id=681128324789976085" width="20%" height="120"/>
-        <img src="https://render.gitanimals.org/lines/consoli-log?id=681788439880810462" width="20%" height="120"/>
+<!--     <a href="https://github.com/devxb/gitanimals">
+        <img src="https://render.gitanimals.org/lines/consoli-log?pet-id=677885846886318058" width="20%" height="120"/>
+        <img src="https://render.gitanimals.org/lines/consoli-log?pet-id=677885846886318059" width="20%" height="120"/>
+        <img src="https://render.gitanimals.org/lines/consoli-log?pet-id=677901477778057652" width="20%" height="120"/>
+        <img src="https://render.gitanimals.org/lines/consoli-log?pet-id=677919731003180930" width="20%" height="120"/>
+        <img src="https://render.gitanimals.org/lines/consoli-log?pet-id=681128324789976085" width="20%" height="120"/>
+        <img src="https://render.gitanimals.org/lines/consoli-log?pet-id=681788439880810462" width="20%" height="120"/>
         <img src="https://render.gitanimals.org/lines/consoli-log?pet-id=692757873771579858" width="20%" height="120"/>
         <img src="https://render.gitanimals.org/lines/consoli-log?pet-id=715364860632093252" width="20%" height="120"/>
         <img src="https://render.gitanimals.org/lines/consoli-log?pet-id=715364860921511579" width="20%" height="120"/>
@@ -56,7 +56,7 @@
         <img src="https://render.gitanimals.org/lines/consoli-log?pet-id=715364862469204256" width="20%" height="120"/>
         <img src="https://render.gitanimals.org/lines/consoli-log?pet-id=715364862804748398" width="20%" height="120"/>
         <img src="https://render.gitanimals.org/lines/consoli-log?pet-id=715390842210479342" width="20%" height="120"/>
-    </a>
+    </a> -->
     <div align="left">
         <img src="https://github-readme-stats.vercel.app/api?username=consoli-log&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=en&hide_border=false" height="150" alt="stats graph"  />
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=consoli-log&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=buefy&hide_border=false" height="150" alt="languages graph"  />
