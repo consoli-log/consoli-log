@@ -40,7 +40,7 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <br> 
     <a href="https://github.com/devxb/gitanimals">
-        <img src="https://render.gitanimals.org/farms/consoli-log" width="1000" height="120"/>
+        <img src="https://render.gitanimals.org/farms/consoli-log"/>
 <!--         <img src="https://render.gitanimals.org/lines/consoli-log" width="1000" height="120"/> -->
     </a>
     <div align="left">
