@@ -41,7 +41,6 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <br> 
     <a href="https://github.com/devxb/gitanimals">
         <img src="https://render.gitanimals.org/farms/consoli-log"/>
-<!--         <img src="https://render.gitanimals.org/lines/consoli-log" width="1000" height="120"/> -->
     </a>
     <a href="https://github.com/devxb/gitanimals">
         <img src="https://render.gitanimals.org/lines/consoli-log?pet-id=677885846886318058" width="20%" height="120"/>
