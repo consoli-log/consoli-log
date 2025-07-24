@@ -42,7 +42,7 @@
     <a href="https://github.com/devxb/gitanimals">
         <img src="https://render.gitanimals.org/farms/consoli-log"/>
     </a>
-<!--     <a href="https://github.com/devxb/gitanimals">
+<!--<a href="https://github.com/devxb/gitanimals">
         <img src="https://render.gitanimals.org/lines/consoli-log?pet-id=677885846886318058" width="20%" height="120"/>
         <img src="https://render.gitanimals.org/lines/consoli-log?pet-id=677885846886318059" width="20%" height="120"/>
         <img src="https://render.gitanimals.org/lines/consoli-log?pet-id=677901477778057652" width="20%" height="120"/>
@@ -57,20 +57,21 @@
         <img src="https://render.gitanimals.org/lines/consoli-log?pet-id=715364862804748398" width="20%" height="120"/>
         <img src="https://render.gitanimals.org/lines/consoli-log?pet-id=715390842210479342" width="20%" height="120"/>
     </a> -->
-    <div align="left">
+    
+<!--<div align="left">
         <img src="https://github-readme-stats.vercel.app/api?username=consoli-log&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=buefy&locale=en&hide_border=false" height="150" alt="stats graph"  />
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=consoli-log&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=buefy&hide_border=false" height="150" alt="languages graph"  />
-    </div>
+    </div> -->
 </div>
 
-
+<!--
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎈 Activity </h2> <br> 
 </div>
 
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=eumsoli)](https://solved.ac/eumsoli)
 ![Solved.ac commit](http://mazandi.herokuapp.com/api?handle=eumsoli&theme=cold)
-
+-->
 
 <!-- [![solved.ac](https://solvedac.junah.dev/v1/generate_badge?handle=eumsoli)](http://solved.ac/profile/eumsoli/arena) -->
 <!-- ![Solved.ac commit](http://mazandi.herokuapp.com/api?handle=eumsoli&theme=warm) -->
